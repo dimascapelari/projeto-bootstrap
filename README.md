@@ -14,7 +14,7 @@
 
 Projeto sobre uma Agência Web que cria projetos e softwares para seus clientes.
 
-Fiz o projeto responsivo tanto para celuláres quanto para tablets.<br>
+Fiz o projeto responsivo tanto para celulares.<br>
 Utilizando novos conhecimentos sempre buscando sair da minha zona de conforto como por exemplo: <br>
 jQuery,<br>
 Paralax,<br>
