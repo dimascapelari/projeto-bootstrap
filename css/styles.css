@@ -68,37 +68,19 @@ header,
     top: 30%;
 }
 
-#h2-1,
-#h2-2,
-#h2-3 {
-    color: #000;
-    text-shadow:
-        -1px -1px 0px #65DAF9,
-        -1px 1px 0px #65DAF9,
-        1px -1px 0px #65DAF9,
-        1px 0px 0px #65DAF9;
-}
-
-#p-1,
-#p-2,
-#p-3 {
-    color: #000;
-    text-shadow:
-        -1px -1px 0px #65DAF9,
-        -1px 1px 0px #65DAF9,
-        1px -1px 0px #65DAF9,
-        1px 0px 0px #65DAF9;
-}
-
 #mainSlider .carousel-caption h2 {
     font-size: 50px;
     margin-bottom: 30px;
+    color: #fff;
+    text-shadow: #000 2px 2px;
 }
 
 #mainSlider .carousel-caption p {
     font-size: 22px;
-    font-weight: bold;
+    font-weight: 300;
     margin-bottom: 100px;
+    color: #fff;
+    text-shadow: #000 2px 2px;
 }
 
 .main-btn {
