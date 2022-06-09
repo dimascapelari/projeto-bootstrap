@@ -6,9 +6,7 @@
   <img alt="PROJECT" title="#PROJECT" src="https://github.com/dimascapelari/projeto-bootstrap/blob/main/img/projeto-bootstrap.jpg" width="400px">
 </p>
 
-<p align="center">
-  <img alt="Repository size" src="https://img.shields.io/static/v1?label=Last%20commit&message=Jun&color=orange&style=for-the-badge&logo=Slack">
-</p>
+
 
 ## 💻 Sobre o Projeto:
 
